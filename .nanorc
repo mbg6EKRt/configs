@@ -1,6 +1,11 @@
+include ~/.nano/*.nanorc
+
+set linenumbers
 set mouse
 set nowrap
 set nonewlines
 set autoindent
 set tabsize 4
 set nohelp
+set titlecolor brightwhite,magenta
+set guidestripe 80
