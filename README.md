@@ -8,6 +8,9 @@ A lovely little editor for quick and easy editing.
 
 - https://www.nano-editor.org
 - https://www.nano-editor.org/dist/latest/nanorc.5.html
+
+Credit and inspiration
+
 - https://gist.github.com/BlakeGardner/5587269
 - https://github.com/scopatz/nanorc
 
